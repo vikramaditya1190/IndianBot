@@ -17,7 +17,8 @@ async def amireallyalive(alive):
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Telethon version:` **6.0.9**\n`Python:` **3.7.4**\n"
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
-                     "**Bot Creator:** [🇮🇳UTSAV](t.me/OFFICIAL_MADRACER)\n"
-                     "**Co-Owner:** [🇮🇳🅅🄸🄺🅁🅁🄰🄼🄰🄳🄸🅃🅈🄰](t.me/VIKRAMADITYA1190)\n\n"
-                     "     [🇮🇳POWERFUL USERBOT🇮🇳](https://t.me/aditya1190)") 
+                     "**Bot Owner:** [🇮🇳🅅🄸🄺🅁🅁🄰🄼🄰🄳🄸🅃🅈🄰🇮🇳](t.me/VIKRAMADITYA1190)\n"
+                     "     [🇮🇳POWERFUL USERBOT🇮🇳](https://t.me/VIKRAMADITYA1190)") 
+
+                    
 
